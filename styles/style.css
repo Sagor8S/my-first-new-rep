@@ -1,11 +1,104 @@
-.nav-title{
-   color: #c14444;
-   text-align: center;
+body{
+    width: 1320px;
+    height: 600px;
 }
+.header, .part{
+    padding: 25px;
+    max-width: 80%;
+    margin: 0px;
+    background-image: url(/images/resources/Banner\ Image.png);
+}
+.banner{
+    margin-left: 140px;
+    border-radius: 16px;
+}
+
+
+.itmes{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    /*line-height: normal;*/
+}
+
+.mests{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+}
+
 .title{
+    color: red;
+    padding: 100px;
+    text-align: center;
+    font-family: Inter;
+}
+
+.new{
+    color: black;
+}
+
+.table{
     text-align: center;
 }
 
-.banne{
-    border-radius: center;
+.primary{
+    width: 140 .641px;
+    height:auto;
+    margin:200px;
+    text-align: center;
+    background-color:antiquewhite;
+}
+
+
+.sagi{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.haro{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.orog{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.ronga{
+    color: #FFF;
+    background-image: url(/images/resources/Vectorrr.png);
+    font-size: 64px;
+    font-style: 10px;
+    font-weight: 0;
+}
+
+.righs{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
 }
